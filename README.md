@@ -4,8 +4,8 @@
 
 ## Introduction
 
-Thank you for using my software!
-This document is the main privacy policy for **Omni Notes** Android and desktop applications. I respects your privacy rights and care about protecting your information collected by my apps.
+Thank you for playing Bubbles!
+This document is the main privacy policy for **Bubbles** Android applications. I respects your privacy rights and care about protecting your information collected by my apps.
 
 ## What information are eventually collected
 
@@ -18,21 +18,15 @@ This document is the main privacy policy for **Omni Notes** Android and desktop 
 - Some of my products may use cookies. Information from cookies is collected while using web-based services.
 
 ## Why these data are collect and how are they used
-
-- Providing and improving my services.
 - Adjusting contents of the application to the user's preferences and optimizing the use of these applications.
-- Creating statistics that help me to understand how users use my services, which enables me to improving the software continuously.
-- Maintaining user's session, that improves the convenience of my solutions.
-- ~~Ads presentation, including in a way that respects user's interests and his place of residence.~~
+- Creating statistics that help me to understand how users use my Apps, which enables me to improving the software continuously.
 
 ## Security of information
 
-Anonimously collected analytics are kept safe on a database while personal data eventually provided by e-mail are used only for users support purposes and nothing else. No data are sold or shared with third party entities or companies.
+Anonimously collected analytics are kept safe on a database. No data are sold or shared with third party entities or companies.
 
 ## Contact
 
-To contact me on topics related to products, privacy policy or in another case, use *support@omninotes.app*
+To contact me on topics related to products, privacy policy or in another case, use *saylornautis@gmail.com*
 
-Best regards!
-
-Last Update: October 23, 2018
+Thanks!
