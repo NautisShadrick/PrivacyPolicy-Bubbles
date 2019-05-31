@@ -11,11 +11,12 @@ This document is the main privacy policy for **FunStuffGames** Android applicati
 
 - Some Information Colected by Google Analytics About How often You Play my Games.
 - Possible logged in with google play account
+- Google Admob May Use Location (if you have geo-location enabled) better suggest intersting ads.
 
 ## Why these data are collect and how are they used
 
 - Creating statistics that help me to understand if my users Enjoy my apps, which enables me to keep my Games As fun as possible for Everyone.
--Save Scores and Achievements with google play account
+- Save Scores and Achievements with google play account
 
 ## Security of information
 
