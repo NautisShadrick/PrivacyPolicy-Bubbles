@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Thank you for playing Bubbles!
+Thank you for playing FunStuffGames!
 This document is the main privacy policy for **FunStuffGames** Android applications. I respects your privacy rights and care about protecting your information collected by my apps.
 
 ## What information are eventually collected
